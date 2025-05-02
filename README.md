@@ -11,6 +11,7 @@ Docker build -t <nama_image> -f ngrok_mosquitto.dockerfile .
 2. Lalu, Jalankan perintah command docker run :
 ```
 Docker run -t -name <nama_container> <nama_image>
+```
 
 dan voila local server akan jalan seperti gambar di bawah ini
 
